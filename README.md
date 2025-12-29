@@ -8,7 +8,7 @@ I am a passionate AI and Machine Learning enthusiast currently pursuing B.Tech i
 
 **University of Visvesvaraya College of Engineering**  
 *B.Tech in Artificial Intelligence and Machine Learning*  
-CGPA: 8.4 | January 2021 – August 2025 | Bengaluru, India
+CGPA: 8.75 | January 2021 – August 2025 | Bengaluru, India
 
 **Akshara PU College**  
 *PUC - PCMB*  
