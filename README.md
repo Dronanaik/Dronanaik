@@ -106,11 +106,7 @@ Percentage: 95.1% | June 2019 – July 2021 | Shikaripur, Karnataka
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dronanaik&theme=dark&show_icons=true&hide_border=false)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dronanaik&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dronanaik&theme=dark&layout=compact&hide_border=false)
 
 ---
 
